@@ -1,6 +1,6 @@
 # 🧮 SmartCalc
 
-A minimalistic, keyboard-driven one-line calculator powered by **Pygame**.  
+A minimalistic, keyboard-driven one-line calculator powered by [Pygame](https://github.com/pygame/pygame).  
 
 It features a dark/light Tokyo Night-inspired theme, supports:
 - variable assignments (`result = 3+5`),  
