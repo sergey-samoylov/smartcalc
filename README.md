@@ -4,8 +4,8 @@ A minimalistic, keyboard-driven one-line calculator powered by [Pygame](https://
 
 It features a dark/light Tokyo Night-inspired theme, supports:
 - variable assignments (`result = 3+5`),  
-- post-assignments (`12**3 > c`) c now equals 1728,
-- accumulation (`227 >> c`), if both line calculated c = 1995,
+- post-assignments (`12**3 > c`) `c` now equals `1728`,
+- accumulation (`227 >> c`), if both lines calculated `c` will equal `1995`,
 - input history navigation,
 - and beautifully formatted numeric output.
 
